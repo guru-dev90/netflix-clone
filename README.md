@@ -6,7 +6,7 @@
   <h3 align="center">Netflix Clone</h3>
 
   <p align="center">
-    
+    Having fun rebuilding Netflix UK from scratch!
     <br />
     <a href="https://github.com/guru-dev90/netflix-clone"><strong>Explore the docs »</strong></a>
     <br />
