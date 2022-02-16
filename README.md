@@ -145,7 +145,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Umberto Giacomini - giacominiu@gmail.com
 
-Project Link: [https://github.com/guru-dev90/netflix-clone](https://github.com/guru-dev90/netflix-clone)
+Project Link: [https://guru-dev90.github.io/netflix-clone/](https://guru-dev90.github.io/netflix-clone/)
 
 
 
